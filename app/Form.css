@@ -1,0 +1,8 @@
+form .form-group{
+    margin-bottom: 1em;
+}
+
+form .validation{
+    color: crimson;
+    font-size: small;
+}
